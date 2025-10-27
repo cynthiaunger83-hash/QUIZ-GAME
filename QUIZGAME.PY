@@ -1,3 +1,31 @@
+# qs = (
+#       {"question": "what sending school is cynthia's",
+#        "options": ("A. milcreek","B. Fort Le Boeuf", "C. Girard", "D. wattsburg"),
+#        "answer": "A"
+#        },
+#        {"question": "what sending school is cynthia's",
+#        "options": ("A. milcreek","B. Fort Le Boeuf", "C. Girard", "D. wattsburg"),
+#        "answer": "A"
+#        },
+#        {"question": "what sending school is cynthia's",
+#        "options": ("A. milcreek","B. Fort Le Boeuf", "C. Girard", "D. wattsburg"),
+#        "answer": "A"
+#        },
+#        {"question": "what sending school is cynthia's",
+#        "options": ("A. milcreek","B. Fort Le Boeuf", "C. Girard", "D. wattsburg"),
+#        "answer": "A"
+#        }
+
+# )
+
+# for q in qs:
+#     print(q["question"])
+#     for opt in q["options"]:
+#         print(opt)
+#     user = input("->")
+#     print(f"The answer was {q['answer']}")
+
+
 questions = ("what sending school is cynthia's", "what is the true statement about bipolar disorder", "what is one of the most commonly faked disorders ", "what does POTS mean", "what is the diffrence between DID and OSDD" )
 options = (
     ("A. milcreek","B. Fort Le Boeuf", "C. Girard", "D. wattsburg"),
